@@ -6,15 +6,10 @@ AI & Vibe Coding
 Web Development Trends
 Cybersecurity & Automation
 Cloud Concepts & Networking
+& more 
 
 🎯 Goals:
 Strengthen technical communication
 Build comfort speaking on high-impact tech topics
 Bridge the gap between engineering and non-technical stakeholders
 
-Each speech includes:
-
-✅ Full outline
-✅ Annotated script (audience-aware)
-✅ Optional LinkedIn summary
-✅ Slide notes (if used)
