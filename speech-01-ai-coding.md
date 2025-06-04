@@ -34,7 +34,7 @@ I explain with vibe coding, the shift is headed to being a curator of code rathe
 
 # Part 4 / Security and the curating aspect 
 
-This is where I followed up on part 3 of the speech, and really dove into how something may look great on the surface level, and this is where non-technical people quickly run into trouble as they assume an out the box app produced by AI is functional because an AI simply write it, this is not the case. The apps AI puts out may work on paper, but it's really a matter of *how* many vulnerabilities and exploits are on these applications produced by AI, people specifify what to make, but at the cost of builing it in a secure and iron-clad way in favor of the speed it took to build, and no one really understand *what* the AI actually did. 
+This is where I followed up on part 3 of the speech, and really dove into how something may look great on the surface level, and this is where non-technical people quickly run into trouble as they assume an out the box app produced by AI is functional because an AI simply wrote it, this is not the case. The apps AI puts out may work on paper, but it's really a matter of *how* many vulnerabilities and exploits are on these applications produced by AI and not *if* there are any, people specifify what to make, but at the cost of builing it in a secure and iron-clad way in favor of the speed and convenience it took to build, and no one really understands *what* the AI actually did. 
 
 I pivoted to explaining how this will shape the future landscape of how developers think and act in the enterprise space, and how new roles will likely emerge in the form of, or new key responsibilities will be emphasized in dev work such as: 
 - Prompt security testesrs: people who test how secure-AI generated results are
@@ -45,7 +45,7 @@ This wont diminish the technical field in the way people spreading fear and unce
 
 # Part 5 / What this means for developers and security professionals and a recap of my speech: 
 
-I believe learning the fundamentals of programming will never go away and will only be more important as time geos on, along with security education becoming more emphasized as well. 
+I believe learning the fundamentals of programming will never go away and will only be more important as time goess on, along with security education becoming more emphasized as well. 
 
 Not only will you need to understand syntaxes and architectures, but also guiding what AI scaffolds and puts out, and more and more job descriptions will require the following: 
 - Reviewing AI generated code
