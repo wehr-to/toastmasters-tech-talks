@@ -4,7 +4,7 @@ Speech overview:
 
 Started speech off with asking the audience as the hook, "who here uses AI now in their day to day jobs or lives? could be for anything" 
 
-Once engagement was received I proceeded to reference how AI is a hot buzzword and topic in modern society, personally and professionally. 
+Once engagement was received I proceeded to reference how AI is a hot buzzword and topic in modern professional circles. 
 
 I showed an example of how I believe humans and machines will integrate and collaborate, through programming or "vibe coding" 
 
