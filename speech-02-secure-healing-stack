@@ -1,4 +1,6 @@
-## Securing the Self-Healing Stack: AI-Augmented Automation for Cyber Defense
+ROUGH DRAFT 
+
+Securing the Self-Healing Stack: AI-Augmented Automation for Cyber Defense
 
 - How AI/ML is used in anomaly detection (EDR, NDR, UEBA)
 - Designing playbooks for auto-remediation (e.g., quarantine endpoint, rotate secrets)
