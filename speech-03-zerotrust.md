@@ -1,4 +1,4 @@
-#R ROUGH DRAFT - Zero Trust, Infinite Reach: Architecting Secure Cloud-First Networks
+## ROUGH DRAFT - Zero Trust, Infinite Reach: Architecting Secure Cloud-First Networks
 
 Key Angles:
 Zero Trust Identity and Microsegmentation at L3–L7
