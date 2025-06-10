@@ -1,4 +1,4 @@
-Beyond Alerts: Building Autonomous Detection & Response with Logs, Code, and Context
+## ROUGH DRAFT - Beyond Alerts: Building Autonomous Detection & Response with Logs, Code, and Context
 
 Key Angles:
 - SIEM tuning: MITRE tags, Sigma rules, custom parsers
