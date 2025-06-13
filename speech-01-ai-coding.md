@@ -13,8 +13,8 @@ I showed an example of how I believe humans and machines will integrate and coll
 I broke down vibe coding and gave the following analogies: "Traditional programming is like giving a GPS step-by-step directions: Turn right. Now go 2 miles. Exit left.”
 
 Vibe coding, on the other hand, is like saying:
-“Take me somewhere with sunshine, a beach, and amazing tacos.”
- And somehow—the car gets you there.
+“build me a wild west themed like website”
+And somehow—the car gets you there.
  
 With vibe coding, you don’t write every line of code. You describe the vibe of what you want—a mood, a function, a feeling—and the AI figures out how to build it.
 Imagine saying:
