@@ -3,9 +3,7 @@ Speech overview:
 # Part 1 / The intro 
 
 Started speech off with asking the audience as the hook, "who here uses AI now in their day to day jobs or lives? could be for anything" 
-
-Once engagement was received I proceeded to reference how AI is a hot buzzword and topic in modern professional circles. 
-
+Once engagement was received I proceeded to reference how AI is a hot buzzword and topic in professional circles. 
 I showed an example of how I believe humans and machines will integrate and collaborate, through programming or "vibe coding" 
 
 # Part 2 / what is vibe coding? 
@@ -14,12 +12,12 @@ I broke down vibe coding and gave the following analogies: "Traditional programm
 
 Vibe coding, on the other hand, is like saying:
 “build me a wild west themed like website”
-And somehow—the car gets you there.
+And somehow the car gets you there.
  
-With vibe coding, you don’t write every line of code. You describe the vibe of what you want—a mood, a function, a feeling—and the AI figures out how to build it.
+With vibe coding, you don’t write every line of code. You describe the vibe of what you want, be it a mood, a function, a feeling and the AI builds it out. 
 Imagine saying:
- “I want a website that feels cozy and vintage, maybe with soft browns and cursive fonts, for my online candle shop.”
-And the AI gives you a fully functional design, with the buttons, layout, and even sample text—based on your vibe.
+“I want a website that feels cozy and vintage, maybe with soft browns and cursive fonts, for my online candle shop.”
+And the AI gives you a fully functional design, with the buttons, layout, and even sample text based on the specified description.
 
 # Part 3 / The changes to web development 
 
