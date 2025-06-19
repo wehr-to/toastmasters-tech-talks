@@ -6,7 +6,7 @@ Started the speech off by asking the audience as the hook:
 
 "Who here uses AI now in their day-to-day jobs or lives? Could be for anything."
 
-Once engagement was received, I proceeded to reference how AI is a hot buzzword and topic in professional circles, and that there is widespread fear of automation and human replacement, the largest source of fear coming from LLMs, which have created vibe coding.
+Once I got feedback, I proceeded to reference how AI is a hot buzzword and topic in professional circles, and that there is widespread fear of automation and human replacement, the largest source of fear coming from LLMs, which have created vibe coding.
 
 # Part 2 / what is vibe coding? 
 
