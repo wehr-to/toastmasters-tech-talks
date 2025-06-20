@@ -17,7 +17,7 @@ Vibe coding, I explained the stark difference and gave the analogy of:
 And somehow the LLM or car in the analogy, gets the user their desired result. 
  
 With vibe coding, users don’t write every line of code. they describe what they want, be it a mood, a function, a feeling and the LLM builds it out. 
-Imagine saying:
+An example:
 “I want a shopping website that has an old rustic wild west type aesthetic to it for my boots store”
 And the AI gives you a fully functional design, with the buttons, layout, and sample text based on the specified description.
 
