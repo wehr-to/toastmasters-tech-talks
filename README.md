@@ -11,5 +11,5 @@
 ## Goals:
 - Strengthen technical communication
 - Build comfort speaking on high-impact tech topics
-- Bridge the gap between engineering and non-technical stakeholders
+- Translate technical concepts to stakeholders 
 
