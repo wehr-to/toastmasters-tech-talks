@@ -1,5 +1,7 @@
 # Securing the Self-Healing Stack: AI-Augmented Automation for Cyber Defense
 
+- Objective: Rehearse using bullet points, focus more on casual conversation style rehearsal
+
 ## Beginning (Hook & Framing)
 
 - Hook:  
