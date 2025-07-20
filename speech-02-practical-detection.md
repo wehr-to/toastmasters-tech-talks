@@ -27,7 +27,7 @@ Flagged IP addresses get blocked automatically.
 Keep those high-impact actions behind a human review until confidence within detections has been established.
 You must regularly tune the response playbooks and detection rules.
 
-Cortex XSOAR remains a tool. Its goal involves automation of workflows.
+Cortex XSOAR remains a tool, Its goal involves automation of workflows.
 * Use CrowdStrike for both containment and for detection.
 * Write in Python scripts that are for account disabling, and for endpoint isolation, and for secret rotation.
 * Custom detection tuning uses both Sysmon and also Sigma rules.
