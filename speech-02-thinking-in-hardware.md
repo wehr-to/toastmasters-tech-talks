@@ -24,3 +24,13 @@ The goal of this section was to really get the audience picturing how to envisio
 
 ## Resources
 - https://meltdownattack.com/
+
+## Presentation mastery pathway alignment: 
+
+| Toastmasters Goal         | Your Speech Contribution                              |
+| ------------------------- | ----------------------------------------------------- |
+| Build audience connection | Light switch metaphor, cause/effect framing           |
+| Use compelling structure  | Clear intro > thesis > examples > conclusion          |
+| Demonstrate presence      | Analogies & pacing invite vocal/body variation        |
+| Persuade with logic       | Spectre, syscalls, memory behavior = layered evidence |
+| Express your voice        | Deeply technical but explained with clarity           |
