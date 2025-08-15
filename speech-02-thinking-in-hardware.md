@@ -20,6 +20,7 @@ The goal of this section was to really get the audience picturing how to envisio
 
 - We patch web apps, we scan ports, but asking yourself how does the memory actually behave is equally if not more important
 - The book OSTEP teaches that the OS exists to manage complexity and isolation, things like memory management, scheduling, and syscalls, but if the OS is built on assumptions on how the hardware behaves, and the hardware gets manipulated, then even your OS becomes exploitable.
+- understanding the book enables you to think like a proper defender of systems and not a walking vendor demo who doesnt see under the hood
 - To tie everything back to the beginning point, as a security professional has to think beyond "how does this python function work" but rather "how does this syscall behave?", in laymans terms understanding the underlying causes has more secure outcomes.
 
 ## Resources
