@@ -5,7 +5,6 @@
 - AI & Vibe Coding
 - Web Development Trends
 - Cybersecurity & Automation
-- Cloud Concepts & Networking
 - & more 
 
 ## Goals:
