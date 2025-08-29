@@ -1,6 +1,6 @@
 Speech overview: 
 
-## Part 1 / The Intro
+## Part 1 / intro
 
 Started the speech off by asking the audience as the hook:
 
