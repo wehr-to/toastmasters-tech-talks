@@ -8,7 +8,8 @@
   - Chrome vs Firefox (locked ecosystem vs open customization)  
   - Windows vs Linux (one-size-fits-all vs infinite variations)  
   - Vim (a “blank slate” editor that only becomes powerful when you shape it)  
-
+  - Typst vs Google Docs (lightweight, scriptable control vs bloated, one-size-fits-all editor)
+  
 ## Middle: Why Customization Matters
 
 ### Creativity and Innovation
@@ -18,10 +19,12 @@
 ### Ergonomics and Efficiency
 - Custom keybindings, browser profiles, or stripped-down distros save time.  
 - Example: mapping keystrokes in Vim to reduce repetitive strain.  
+- Typst’s text-first approach makes structured writing faster and more reproducible than a click-heavy UI.  
 
 ### Security and Control
 - Hardened browser configs (vs stock Chrome) protect privacy.  
 - Minimalist Linux installs reduce attack surface.  
+- Owning your documents in Typst means independence from cloud lock-in.  
 
 ### Sense of Ownership
 - Your system feels like *yours*, not borrowed.  
@@ -42,3 +45,4 @@
 - **Encouragement**: Configuring tools forces critical thinking and problem ownership.  
 - **Vision**: Technology becomes limitless when you bend it to your needs.  
 - **Closing line idea**: The difference between a user and a technologist is the willingness to own your workflow.  
+
