@@ -46,3 +46,4 @@
 - **Vision**: Technology becomes limitless when you bend it to your needs.  
 - **Closing line idea**: The difference between a user and a technologist is the willingness to own your workflow.  
 
+great
