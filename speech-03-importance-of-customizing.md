@@ -46,4 +46,29 @@
 - **Vision**: Technology becomes limitless when you bend it to your needs.  
 - **Closing line idea**: The difference between a user and a technologist is the willingness to own your workflow.  
 
-great
+## Demos
+### 1. Browser Security & Customization
+- Default: Open Chrome with the default homepage and settings.
+- Customized: Open hardened Firefox profile showing:
+- Privacy-focused extensions (uBlock, NoScript, Multi-Account Containers).
+- Minimalist toolbar or custom search setup.
+- Takeaway: “One is off-the-shelf, the other is shaped to my security and workflow.”
+
+### 2. Basic ergonomics
+- showcase keyboard without legends and show how i type faster when i train myself to memorize where keys are
+- vim and show mapped keys, show myself moving 3 lines with a single keystroke in vscode
+- defaults require repetition and thought, customizaiton really compresses effort
+
+### 3. Writing Workflow (Typst vs Google Docs)
+- Default: Open Google Docs, add a simple heading and bullet list by clicking menus.
+- Customized: In Typst, type a short snippet that instantly renders into structured, styled text.
+- Takeaway: “Clicking vs scripting, speed and reproducibility come from owning the structure.”
+
+### 4. System Ownership (Linux vs Windows)
+- Default: Show a cluttered Windows taskbar/start menu with preinstalled apps.
+- Customized: Switch to your stripped-down Linux terminal with only the essentials running.
+- Takeaway: “When you strip down to what you actually need, you cut noise and attack surface.”
+
+### 5. Philosophical Visual (Optional Closer)
+- Display a config file (like .vimrc or .typst template) next to a marketing screenshot of Chrome/Windows/Docs.
+- Briefly point out: “This looks like code, but it's really just means to ownership of your own workflow"
