@@ -39,11 +39,7 @@
 - Progress in technology has always been fueled by customization.  
 
 ## Conclusion: Bring It Together
-
-- **Warning**: Using only packaged defaults breeds complacency.  
-- **Encouragement**: Configuring tools forces critical thinking and problem ownership.  
-- **Vision**: Technology becomes limitless when you bend it to your needs.  
-- **Closing line idea**: The difference between a user and a technologist is the willingness to own your workflow.  
+- owning your own workflow not only creates better artifacts and work, but also a sense of ownership in your own environment versus being locked in to mediocre out of the box software
 
 ## Demos
 ### 1. Browser Security & Customization
