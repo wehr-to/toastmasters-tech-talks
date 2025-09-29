@@ -36,7 +36,6 @@
 - Mastery comes from straying beyond what is handed to you.  
 
 ### Historical / Cultural Parallel (optional)
-- Tinkerers, hackers, and innovators often started by modifying what already existed.  
 - Progress in technology has always been fueled by customization.  
 
 ## Conclusion: Bring It Together
