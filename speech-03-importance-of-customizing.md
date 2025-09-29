@@ -7,8 +7,8 @@
 - **Examples to ground it**:  
   - Chrome vs Firefox (locked ecosystem vs open customization)  
   - Windows vs Linux (one-size-fits-all vs infinite variations)  
-  - Vim (a “blank slate” editor that only becomes powerful when you shape it)  
-  - Typst vs Google Docs (lightweight, scriptable control vs bloated, one-size-fits-all editor)
+  - Vim (a “blank slate” editor that only becomes powerful when you shape it) / vim bindings in an actual browser rather than using a mouse
+  - Typst vs Google Docs (lightweight, scriptable control vs bloated, one-size-fits-all document editor)
   
 ## Middle: Why Customization Matters
 
@@ -58,11 +58,13 @@
 - showcase keyboard without legends and show how i type faster when i train myself to memorize where keys are
 - vim and show mapped keys, show myself moving 3 lines with a single keystroke in vscode
 - defaults require repetition and thought, customizaiton really compresses effort
+- neovim plugins on firefox
 
 ### 3. Writing Workflow (Typst vs Google Docs)
 - Default: Open Google Docs, add a simple heading and bullet list by clicking menus.
 - Customized: In Typst, type a short snippet that instantly renders into structured, styled text.
 - Takeaway: “Clicking vs scripting, speed and reproducibility come from owning the structure.”
+- Benefit to audience: you get academic level PDFs and documents quicker and easier than using bloatware google docs
 
 ### 4. System Ownership (Linux vs Windows)
 - Default: Show a cluttered Windows taskbar/start menu with preinstalled apps.
@@ -72,3 +74,4 @@
 ### 5. Philosophical Visual (Optional Closer)
 - Display a config file (like .vimrc or .typst template) next to a marketing screenshot of Chrome/Windows/Docs.
 - Briefly point out: “This looks like code, but it's really just means to ownership of your own workflow"
+- show how the audience can implement simple things, such as installing WSL on a windows machine, install firefox and mess with configurations, and how easy typst is to install
