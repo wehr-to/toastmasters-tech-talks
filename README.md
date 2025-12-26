@@ -9,3 +9,5 @@
 - tuild comfort speaking on high-impact tech topics
 - translate technical concepts to anyone
 
+- archived as of 12/25
+
